@@ -1,0 +1,19 @@
+# logs
+*.log
+
+# environment secrets
+.env
+
+#build files 
+dist/
+build/
+
+# python
+__pycache__/
+
+# Node 
+node_modules/
+
+# OS junk
+.DS_Store
+Thumbs.db
